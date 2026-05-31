@@ -1,0 +1,29 @@
+Summer_Assignment_2401921520266/
+├── week_1/
+│   ├── day1/
+│   ├── day2/
+│   ├── day3/
+│   ├── day4/
+│   ├── day5/
+│   └── oops/
+├── week_2/
+│   ├── day1/
+│   ├── day2/
+│   ├── day3/
+│   ├── day4/
+│   ├── day5/
+│   └── oops/
+├── week_3/
+│   ├── day1/
+│   ├── day2/
+│   ├── day3/
+│   ├── day4/
+│   ├── day5/
+│   └── oops/
+└── week_4/
+    ├── day1/
+    ├── day2/
+    ├── day3/
+    ├── day4/
+    ├── day5/
+    └── oops/
